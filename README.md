@@ -2,7 +2,7 @@
 
 ## Introdução
 
-O Sistema de Recursos Humanos (RH) é uma aplicação desenvolvida em Python para gerenciar informações de funcionários, histórico de emprego, folha de pagamento e contracheques. Ele utiliza um banco de dados SQLite para armazenar dados de forma eficiente e segura.
+O Sistema de Recursos Humanos é uma aplicação desenvolvida em Python para gerenciar informações de funcionários, histórico de emprego, folha de pagamento e contracheques. Ele utiliza um banco de dados SQLite para armazenar dados de forma eficiente e segura.
 
 ## Funcionalidades
 
