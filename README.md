@@ -1,4 +1,4 @@
-# Sistema de Recursos Humanos (RH)
+# Sistema de Recursos Humanos
 
 ## Introdução
 
