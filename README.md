@@ -32,8 +32,8 @@ O sistema oferece as seguintes funcionalidades:
 ## Como Usar
 
 1. **Instalação:**
-   - Clone o repositório do projeto utilizando o comando `git clone https://github.com/fsalcantara/Sistema-de-Recursos-Humanos.git`.
-   - Instale as dependências usando `py -m pip install colorama`.
+   - Clone o repositório do projeto utilizando o comando:<br> ```git clone https://github.com/fsalcantara/Sistema-de-Recursos-Humanos.git```.
+   - Instale as dependências usando:<br> ```py -m pip install colorama```.
 
 2. **Execução:**
    - Execute `python main.py` no diretório que você fez o clone para iniciar o sistema.
